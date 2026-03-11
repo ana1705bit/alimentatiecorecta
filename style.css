@@ -1,1 +1,64 @@
+body{
+font-family: Arial, sans-serif;
+background:#f5f7f6;
+margin:0;
+padding:0;
+color:#333;
+}
 
+.container{
+width:800px;
+margin:40px auto;
+background:white;
+padding:30px;
+border:2px dashed #cdd5cf;
+border-radius:10px;
+}
+
+.prev{
+font-size:14px;
+color:#6b7c6e;
+}
+
+h1{
+color:#2c6e49;
+font-size:32px;
+}
+
+h2{
+color:#2c6e49;
+margin-top:30px;
+}
+
+.intro{
+font-size:18px;
+color:#444;
+}
+
+hr{
+margin:20px 0;
+border:none;
+border-top:1px solid #ccc;
+}
+
+.alimente{
+list-style-image: url('leguma.png');
+padding-left:1.6rem;
+line-height:1.8;
+}
+
+.rutina{
+list-style-type: upper-roman;
+padding-left:2rem;
+line-height:1.8;
+}
+
+.info{
+margin-top:15px;
+background:#e6f1ea;
+padding:12px;
+border-left:5px solid #3a8f5c;
+border-radius:5px;
+font-size:14px;
+color:#355e3b;
+}
